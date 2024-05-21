@@ -1,0 +1,8 @@
+deudas.property= Deudas Profile Prod
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    
