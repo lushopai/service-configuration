@@ -1,9 +1,4 @@
 spring:
-  datasource:
-    url: jdbc:mysql://root:ECffMbCVBTYBbWzHXhNwBHmtWkqpWjfa@monorail.proxy.rlwy.net:42872/railway
-    username: root
-    password: ECffMbCVBTYBbWzHXhNwBHmtWkqpWjfa
-    driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: update
